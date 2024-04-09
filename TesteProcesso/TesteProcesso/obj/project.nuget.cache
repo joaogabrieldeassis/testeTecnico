@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "687hY5vfSbJdmTNr8hG5hMPKPAZRgbsk6c3sTF4O6BUgTi6h63GqdH93kATPTIduvyY+d1LY6oc8igcpT/31Cg==",
+  "success": true,
+  "projectFilePath": "C:\\TesteProcesso\\TesteProcesso\\TesteProcesso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
